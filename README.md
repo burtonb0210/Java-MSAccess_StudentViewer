@@ -34,8 +34,3 @@ This project demonstrates:
 - Displays formatted student and major records
 - Handles invalid input gracefully
 - Simple, user-friendly command-line interface
-
----
-
-## ▶️ Sample Menu Output
-
